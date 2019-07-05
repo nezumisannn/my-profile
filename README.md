@@ -19,6 +19,9 @@
 - 2019/06/20
     - 【大阪】GCPUG Osaka #10 ～ Multi-Cloud Day ～【3クラウド共催】
     - https://gcpug-osaka.connpass.com/event/131501/
+- 2019/07/05
+    - Cloud Native Kansai #04
+    - https://cnjp.connpass.com/event/132102/
 
 # メディア掲載
 - 2019/02/12
