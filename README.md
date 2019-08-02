@@ -1,4 +1,4 @@
-# 登壇経歴
+# 登壇/LT経歴
 - 2018/11/27
     - 【大阪】SBクラウド社 主催セミナー 『訪日中国人インバウンドマーケティングを実践するためのクラウド活用セミナー』
 - 2018/12/07
@@ -22,7 +22,10 @@
 - 2019/07/05
     - Cloud Native Kansai #04
     - https://cnjp.connpass.com/event/132102/
-
+- 2019/07/31
+    - Google Cloud Next ’19 in Tokyo
+    - https://cloud.withgoogle.com/next/tokyo/sessions?session=D1-1-OS2
+    
 # メディア掲載
 - 2019/02/12
     - 目指すは長けたサービスの良いとこ取り！マルチクラウドに取り組む企業の“今”
