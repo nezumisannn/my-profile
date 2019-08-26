@@ -25,6 +25,9 @@
 - 2019/07/31
     - Google Cloud Next ’19 in Tokyo
     - https://cloud.withgoogle.com/next/tokyo/sessions?session=D1-1-OS2
+- 2019/08/23
+    - Docker Meetup Kansai #4 (19.08)
+    - https://dockerkansai.connpass.com/event/141875/
     
 # メディア掲載
 - 2019/02/12
