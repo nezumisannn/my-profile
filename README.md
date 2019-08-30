@@ -33,6 +33,9 @@
 - 2019/02/12
     - 目指すは長けたサービスの良いとこ取り！マルチクラウドに取り組む企業の“今”
     - https://cloud.watch.impress.co.jp/docs/topic/special/1168301.html
+- 2019/07/31
+    - D1-1-OS2: Google Kubernetes Engine で実現するサーバー負荷テストサービス「Fukamill（フカミル）」の裏側をご紹介
+    - https://www.youtube.com/watch?v=IFnqRBPK7B8
 
 # 登壇資料
 - https://speakerdeck.com/nezumisannn
