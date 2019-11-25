@@ -31,6 +31,9 @@
 - 2019/09/24
     - 【大阪・梅田】Kubernetes Meetup Osaka #1
     - https://k8sjp-osaka.connpass.com/event/138582/
+- 2019/11/20
+    - 【初心者向け】Kubernetesをはじめよう！
+    - https://beyondjapan.connpass.com/event/152032/ 
     
 # メディア掲載
 - 2019/02/12
