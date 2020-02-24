@@ -34,7 +34,15 @@
 - 2019/11/20
     - 【初心者向け】Kubernetesをはじめよう！
     - https://beyondjapan.connpass.com/event/152032/ 
-    
+- 2020/01/29
+    - ゼロからはじめるDocker入門【ビヨンド勉強会#22】
+    - https://beyondjapan.connpass.com/event/160565/
+- 2020/02/08
+    - 【奈良】GCPUG in Nara #5 【CODE for NARA共催】
+    - https://gcpug-nara.connpass.com/event/159820/
+- 2020/02/12
+    - 【大阪】Alibaba Cloud in Osaka #６
+    - https://alieaters-osaka.connpass.com/event/163984/
 # メディア掲載
 - 2019/02/12
     - 目指すは長けたサービスの良いとこ取り！マルチクラウドに取り組む企業の“今”
