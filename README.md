@@ -43,6 +43,10 @@
 - 2020/02/12
     - 【大阪】Alibaba Cloud in Osaka #６
     - https://alieaters-osaka.connpass.com/event/163984/
+- 2020/05/22
+    - リモートワークにおけるクラウド開発環境について
+    - https://fgdc.connpass.com/event/175659/
+    
 # メディア掲載
 - 2019/02/12
     - 目指すは長けたサービスの良いとこ取り！マルチクラウドに取り組む企業の“今”
