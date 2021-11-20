@@ -46,6 +46,27 @@
 - 2020/05/22
     - リモートワークにおけるクラウド開発環境について
     - https://fgdc.connpass.com/event/175659/
+- 2020/06/17
+    - Terraformについて語る会【ビヨンド勉強会#24】
+    - https://beyondjapan.connpass.com/event/178525/
+- 2020/09/09
+    - ゲーム基盤の移設は本当にメリットあるの！？【NHN TOAST 共催】
+    - https://beyondjapan.connpass.com/event/186078/
+- 2020/12/03
+    - 次世代ゲーム潮流シリーズ第二弾： 膨大なトラフィックを支え、データに新たな金脈を見出す基盤とは？
+    - https://peatix.com/event/1728172
+- 2021/01/22
+    - アリババクラウドパートナーサミット2021
+    - https://www.alibabacloud.com/ja/campaign/jp-partner-summit#J_9976414710
+- 2021/10/08
+    - Cloud Native Database Meetup #2
+    - https://cndata.connpass.com/event/222535/
+- 2021/10/14
+    - Alibaba Cloud共催！Alibaba Cloud最新情報アップデート
+    - https://beyondjapan.connpass.com/event/225468/
+- 2021/11/18
+    - MixLeap Study #68 - 各社事例に学ぶKubernetes運用
+    - https://yahoo-osaka.connpass.com/event/228555/
     
 # メディア掲載
 - 2019/02/12
@@ -54,6 +75,33 @@
 - 2019/07/31
     - D1-1-OS2: Google Kubernetes Engine で実現するサーバー負荷テストサービス「Fukamill（フカミル）」の裏側をご紹介
     - https://www.youtube.com/watch?v=IFnqRBPK7B8
+- 2020/09/15
+    - 事例から垣間見るゲーム基盤移設の舞台裏と安定稼働の秘訣【ビヨンド勉強会#27】
+    - https://www.youtube.com/watch?v=TfkHSEtSQJM
+- 2021/02/22
+    - PackerでDockerイメージをビルドする1
+    - https://www.youtube.com/watch?v=_pSVbPsS7sM
+- 2021/02/22
+    - PackerでDockerイメージをビルドする2
+    - https://www.youtube.com/watch?v=psun7BKCKRY
+- 2021/06/15
+    - 【インフラ構築】Terraform Cloudを利用したGitOps CI/CDパイプライン【STEP1 概要編】
+    - https://www.youtube.com/watch?v=yybL78u-5r8
+- 2021/08/03
+    - 【概要編】Terraform Cloudを活用したマルチクラウドオートメーション
+    - https://www.youtube.com/watch?v=vVMdtdTXjVI
+- 2021/08/09
+    - 【実践編】Terraform Cloudを活用したマルチクラウドオートメーション
+    - https://www.youtube.com/watch?v=pKb8nlp1HLY
+- 2021/08/23
+    - 【インフラ構築】Terraform Cloudを利用したGitOps CI/CDパイプライン【STEP2 実装編】
+    - https://www.youtube.com/watch?v=3hPgXoN77pA
+- 2021/10/08
+    - Cloud Native Database Meetup #2
+    - https://www.youtube.com/watch?v=Reez-XoNbsE
+- 2021/10/22
+    - 「Alibaba Cloud Container Service for Kubernetesの概要」【ビヨンド勉強会#35】
+    - https://www.youtube.com/watch?v=Tp3Y38h3CSo
 
 # 登壇資料
 - https://speakerdeck.com/nezumisannn
